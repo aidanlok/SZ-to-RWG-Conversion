@@ -3,4 +3,4 @@
 Welcome! Residing here are the resources I promised to provide in the [video](https://youtu.be/jUeGmDghiNc). Enjoy!
 
 RWG Installer ISO:
-https://drive.google.com/file/d/13oAoFpUDPQMm5ZI2ia7NPZ8mP1TtlHPZ/view?usp=sharing
+https://drive.google.com/file/d/1LmzsOHr5Gao3FZynjKI2tX_sBINnDU0-/view
