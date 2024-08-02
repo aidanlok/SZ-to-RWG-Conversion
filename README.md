@@ -3,7 +3,7 @@
 Welcome! Residing here are the resources I promised to provide in the [video](https://youtu.be/jUeGmDghiNc). Enjoy!
 
 RWG Installer ISO:
-https://drive.google.com/file/d/1LmzsOHr5Gao3FZynjKI2tX_sBINnDU0-/view
+[https://drive.google.com/file/d/1LmzsOHr5Gao3FZynjKI2tX_sBINnDU0-/view](https://drive.google.com/file/d/17e9BcbxyPZCFUtzpxJmgyn3V3TDtAfH8/view?usp=drive_link)
 
 Balena Etcher, for flashing the IMG onto the USB:
 https://etcher.balena.io
